@@ -1,0 +1,14 @@
+{
+  "name": "checkpoint-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "server": "^1.0.38"
+  }
+}
